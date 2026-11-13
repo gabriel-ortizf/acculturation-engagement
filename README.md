@@ -6,7 +6,7 @@ This dataset supports an exploratory analysis examining the relationship between
 
 The central research question was whether acculturation strategies — as defined by Berry's (1997) theoretical model — predict work engagement. A secondary question explored the role of occupational continuity (working in the same professional field as in Venezuela) as a predictor of engagement and a potential moderator of the stress–engagement relationship.
 
-A narrative visualization of the full analysis is available at: `[What keeps a migrant engaged at work?](https://gabriel-ortizf.github.io/acculturation-engagement/)`
+A narrative visualization of the full analysis is available at: `https://gabriel-ortizf.github.io/acculturation-engagement/`
 
 ---
 
